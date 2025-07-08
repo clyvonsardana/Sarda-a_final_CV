@@ -16,19 +16,19 @@ Language vision model (e.g llama2,llava)
 
 # Run the following commands
 
-ollama run llava
-ollama run llama2
-ollama pull llava
-ollama pull llama2
-ollama run mistral
-ollama list
-ollama serve
-pip install PyPDF
-pip install ollama PyPDF2 Pillow python-dateutil
-install reportlab
+# ollama run llava
+# ollama run llama2
+# ollama pull llava
+# ollama pull llama2
+# ollama run mistral
+# ollama list
+# ollama serve
+# pip install PyPDF
+# pip install ollama PyPDF2 Pillow python-dateutil
+# install reportlab
 
 # Final Step: Run the terminal
 
 python resume_screeners.py
 
-# Expected Output
+
